@@ -1,0 +1,14 @@
+hello git!
+hello weihong
+hello hot-fix
+
+
+
+
+
+
+
+hello master merge test
+hello hot-fix merge test
+
+
